@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.30907.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chap04App", "Chap04App\Chap04App.csproj", "{31E992B1-B05C-47C0-A326-95557A4D82CE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringConcatAPP", "StringConcatAPP\StringConcatAPP.csproj", "{17A1D714-AAEB-40D4-AB42-4BABEF0AFB9D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{31E992B1-B05C-47C0-A326-95557A4D82CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{31E992B1-B05C-47C0-A326-95557A4D82CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{31E992B1-B05C-47C0-A326-95557A4D82CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17A1D714-AAEB-40D4-AB42-4BABEF0AFB9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17A1D714-AAEB-40D4-AB42-4BABEF0AFB9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17A1D714-AAEB-40D4-AB42-4BABEF0AFB9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17A1D714-AAEB-40D4-AB42-4BABEF0AFB9D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
