@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SortingTestApp", "SortingTe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RefOutTestApp", "RefOutTestApp\RefOutTestApp.csproj", "{CE1899E7-0C0D-4904-B947-6C1458F27395}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OverloadTestApp", "OverloadTestApp\OverloadTestApp.csproj", "{11CE3364-F6CC-44F7-B803-14404FFB936B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{CE1899E7-0C0D-4904-B947-6C1458F27395}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CE1899E7-0C0D-4904-B947-6C1458F27395}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CE1899E7-0C0D-4904-B947-6C1458F27395}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11CE3364-F6CC-44F7-B803-14404FFB936B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11CE3364-F6CC-44F7-B803-14404FFB936B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11CE3364-F6CC-44F7-B803-14404FFB936B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11CE3364-F6CC-44F7-B803-14404FFB936B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
