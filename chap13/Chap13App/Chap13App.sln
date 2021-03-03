@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CallbackTestApp", "Callback
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateChainApp", "DelegateChainApp\DelegateChainApp.csproj", "{B5D7F62A-D285-42CB-BF1A-26373FCE834C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateChain2App", "DelegateChain2App\DelegateChain2App.csproj", "{01FA3CFA-7013-4273-B598-A385F99C52BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsingEventApp", "UsingEventApp\UsingEventApp.csproj", "{7F7B7279-BB37-4132-B91B-C1970A16B747}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{B5D7F62A-D285-42CB-BF1A-26373FCE834C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B5D7F62A-D285-42CB-BF1A-26373FCE834C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B5D7F62A-D285-42CB-BF1A-26373FCE834C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01FA3CFA-7013-4273-B598-A385F99C52BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01FA3CFA-7013-4273-B598-A385F99C52BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01FA3CFA-7013-4273-B598-A385F99C52BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01FA3CFA-7013-4273-B598-A385F99C52BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F7B7279-BB37-4132-B91B-C1970A16B747}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F7B7279-BB37-4132-B91B-C1970A16B747}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F7B7279-BB37-4132-B91B-C1970A16B747}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F7B7279-BB37-4132-B91B-C1970A16B747}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
