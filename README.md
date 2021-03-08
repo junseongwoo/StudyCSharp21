@@ -8,7 +8,6 @@
 
 [전체소스](https://github.com/junseongwoo/StudyCSharp21/tree/main/chap99/AddressBookApp)
 
-#### 주소록 프로젝트
 
 1. 전체 프로그램
 
