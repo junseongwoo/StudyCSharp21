@@ -9,11 +9,11 @@ PKNU C# 학습 리포지토리
 
 #### 주소록 프로젝트
 
- ![결과1](/img/result1.png "전체 프로그램")
+ ![결과1](/chap99/img/result1.png "전체 프로그램")
  
- ![결과2](/img/result2.png "주소록 출력")
+ ![결과2](/chap99/img/result2.png "주소록 출력")
  
- ![결과3](/img/result3.png "주소록 수정")
+ ![결과3](/chap99/img/result3.png "주소록 수정")
 
 -----------------
 
