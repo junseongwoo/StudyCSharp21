@@ -3,7 +3,7 @@
 PKNU C# 학습 리포지토리
 
 ## Project 
-> 전체 통합 프로젝트
+> 주소록을 만들어 입력, 수정, 전체 출력 등이 나오게하는 프로그램 
 
 [전체소스](https://github.com/junseongwoo/StudyCSharp21/tree/main/chap99/AddressBookApp)
 
